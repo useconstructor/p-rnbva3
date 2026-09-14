@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "App",
-  description: "Built by Constructor",
+  title: "DeckFlow | AI Streaming Control",
+  description: "Automate scene switching, audio mixing, chat engagement, and multichannel production with DeckFlow.",
 };
 
 export default function RootLayout({
@@ -12,7 +12,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es">
+    <html lang="en">
       <body>{children}</body>
     </html>
   );

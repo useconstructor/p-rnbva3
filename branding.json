@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#0A0E27",
+  "secondaryColor": "#1A1A2E",
+  "backgroundColor": "#0A0E27",
+  "textColor": "#F7FAFF",
+  "accentColor": "#0066FF",
+  "fontHeading": "Space Grotesk",
+  "fontBody": "Inter",
+  "borderRadius": "0.75rem",
+  "logoText": "test vdieo",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-RNBVA3/logo.png",
+  "tone": "energetic"
+}
